@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1491251206 source:c:\users\owner\desktop\personal projects\fitness manager\fitnessmanager\bulkcalculator.cpp
+	"BulkCounter.h"
+
+1491252212 c:\users\owner\desktop\personal projects\fitness manager\fitnessmanager\bulkcounter.h
+	"CalorieCounter.h"
+
+1491250724 c:\users\owner\desktop\personal projects\fitness manager\fitnessmanager\caloriecounter.h
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1491252098 source:c:\users\owner\desktop\personal projects\fitness manager\fitnessmanager\caloriedriver.cpp
+	<iostream>
+	"CalorieCounter.h"
+	"BulkCounter.h"
+	"CuttingCounter.h"
+
+1491252212 c:\users\owner\desktop\personal projects\fitness manager\fitnessmanager\cuttingcounter.h
+	"CalorieCounter.h"
+
+1491252573 source:c:\users\owner\desktop\personal projects\fitness manager\fitnessmanager\cuttingcalculator.cpp
+	"CuttingCounter.h"
+
+1490997903 source:c:\users\owner\desktop\personal projects\fitness manager\fitnessmanager\maintanecalculator.cpp
+	"CalorieCounter.h"
+
